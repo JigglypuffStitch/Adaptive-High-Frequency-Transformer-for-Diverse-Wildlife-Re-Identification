@@ -1,4 +1,4 @@
-#[ECCV2024] Adaptive High Frequency Transformer for Diverse Wildlife Re-Identification [PDF](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06054.pdf)
+# [ECCV2024] Adaptive High Frequency Transformer for Diverse Wildlife Re-Identification [PDF](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06054.pdf)
 
 **Authors**: Chenyue Li, Shuoyi Chen, Mang Ye
 
